@@ -3,7 +3,7 @@ Author: Jeremy Cuthbert
 Course: CS302 - Summer 2025  
 
 ## Game Name
-** Cuthbert Valley **
+Cuthbert Valley
 
 ## Description
 This program implements a hierarchy of NPCs (Non-Playable Characters) using inheritance, polymorphism, and abstract base classes. The base class `NPC` defines common data and behaviors, while the derived classes `Merchant`, `Guard`, and `Villager` each add unique functionality.  
